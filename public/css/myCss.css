@@ -1,0 +1,140 @@
+
+.topbar{
+	position: absolute;
+}
+
+
+.navbar-default{
+	width: 100%;
+
+	background-color : #C5C2C2;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	min-width: 10em;
+	
+}
+
+#content{
+	position: absolute;
+	min-height: 400px;
+	min-width: 370px;
+	
+
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	margin-top:5%;
+	background-color : #C5C2C2;
+
+}
+
+
+.container{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	margin: 0px 30px 30px 60px;
+}
+
+#table_display{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+}
+
+.navbar-brand{
+	font-family: Rockwell, 'Courier Bold', Courier, Georgia, Times, 'Times New Roman', serif;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.3999996185303px;
+}
+
+.btn-default{
+	background-color: #E0EEF9;
+	border-color: #818283;
+	margin: 20px 20px 20px 0px;
+}
+
+
+.first_col{
+	position: absolute;
+	margin: 0px 0px 10px 150px; 
+	
+
+}
+.second_col{
+	position: absolute;
+	margin: 95px 0px 0px 0px;
+	
+ 
+}
+.third_col{
+	position: absolute;
+	margin: 85px 0px 0px 0px;
+	
+ 
+}
+.forth_col{
+	position: absolute;
+	margin: 85px 0px 0px -200px;
+	 
+}
+
+.btn_add{
+	float : right;
+}
+
+.btn-primary{
+	background: -moz-linear-gradient(top,  #267c99 50%, #74D8FA 50%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(50%,#267c99), color-stop(50%,#74D8FA)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #267c99 50%,#74D8FA 50%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #267c99 50%,#74D8FA 50%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #267c99 50%,#007299 50%); /* IE10+ */
+    background: linear-gradient(to bottom,  #267c99 50%,#007299 50%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#267c99', endColorstr='#007299',GradientType=0 ); /* IE6-9 */
+}
+
+.btn-primary.gradient:hover, .btn-primary.gradient:focus, .btn-primary.gradient:active, .btn-primary.gradient.active, .open > .dropdown-toggle.btn-primary {
+    background: -moz-linear-gradient(top,  #66b2cc 50%, #33a6cc 50%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(50%,#66b2cc), color-stop(50%,#33a6cc)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #66b2cc 50%,#33a6cc 50%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #66b2cc 50%,#33a6cc 50%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #66b2cc 50%,#33a6cc 50%); /* IE10+ */
+    background: linear-gradient(to bottom,  #66b2cc 50%,#33a6cc 50%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#66b2cc', endColorstr='#33a6cc',GradientType=0 ); /* IE6-9 */
+}
+
+k{
+	margin: 0px 3px 0px 0px; 
+}
+
+h{
+	font-size: 18px;
+	
+}
+
+h3 {	
+	font-size: 18px;
+    margin: 1.5px 1.5px;
+}
+
+h4{
+	font-size: 16px;
+    margin: -1.48px 0px -1.48px 0px;
+}
+
+h5{
+	font-size: 18px;
+    margin: 10px 0px 10px 0px;
+}
+
+u{
+	font-size: 18px;
+	color: #F70509;
+}
+
+u2{
+	font-size: 18px;
+	color: #29A059;
+}
+
+
+h,h3,h4,h5{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
